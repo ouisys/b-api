@@ -1,2 +1,3 @@
-# b-api
-API
+# Euskalmoneta
+
+## API globale avec Django REST Framework
